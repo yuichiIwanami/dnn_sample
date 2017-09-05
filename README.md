@@ -1,2 +1,2 @@
-# dnn_sample
+# DNN sample
 DNN, OpenCV sample
